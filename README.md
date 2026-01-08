@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game 🎮
 
-Live Demo: https://adityadiya91-spec.github.io/RPS/ :contentReference[oaicite:1]{index=1}
+Live Demo: https://adityadiya91-spec.github.io/RPS/ 
 
 A simple and fun **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer and see whether you can win! 👊✋✌️
 
