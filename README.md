@@ -28,23 +28,6 @@ A simple and fun **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and
 
 ---
 
-## Built With
-
-| Technology | Purpose |
-|------------|---------|
-| HTML       | Structure |
-| CSS        | Styling |
-| JavaScript | Game logic |
-
----
-
-## File Structure
-RPS/
-├── index.html ← Game interface
-├── style.css ← Page styling
-├── script.js ← Game logic
-└── assets/ ← Images used in the game
-
 ## Gameplay Logic
 
 In this game:
